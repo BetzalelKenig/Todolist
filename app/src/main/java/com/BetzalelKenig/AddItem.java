@@ -2,7 +2,5 @@ package com.BetzalelKenig;
 
 import androidx.fragment.app.Fragment;
 
-public class TodoItem {
-
-
+public class AddItem extends Fragment {
 }
